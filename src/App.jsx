@@ -4,7 +4,6 @@ import Navbar from './components/Navbar';
 import Home from './pages/Home';
 import CityDetails from './pages/CityDetails';
 import Settings from './pages/Settings';
-import test from './pages/test';
 
 function App() {
   return (
